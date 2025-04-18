@@ -1,0 +1,192 @@
+html {
+    overflow-y: scroll;
+    font-family: "Vesper Libre", serif;
+    font-weight: 400;
+    max-width: 100%;
+}
+
+.top {
+    height: 1020px;
+    width: 100%;
+    background: #000000;
+    color: white;  
+}
+
+.logo {
+    /* display: flex;
+    justify-content: center; */
+    position: absolute;
+    padding: 50px;
+    position: fixed;
+}
+
+#CD  {
+height: 500px;
+padding-top: 200px;
+display: flex;
+justify-content: center;
+
+}
+
+#CD-text {
+    text-align: center;
+    line-height: 1;
+
+}
+
+
+#CD-text2 {
+    padding-top: 40px;
+    text-align: center;
+    line-height: 2;
+}
+
+#CD-text2 a {
+   color: white;
+   text-decoration: none;
+}
+
+#MTA {
+    font-style: italic;
+
+}
+
+.next-track {
+    /* padding-top: 50px; */
+text-align: center;
+/* border: 2px solid pink; */
+}
+
+.next-track a {
+    color: pink;
+    text-decoration: none;
+}
+
+.next-track:hover a {
+
+color: deeppink;
+
+}
+
+.meat {
+    padding-top: 100px;
+  
+
+}
+#album-intro {
+    display: flex;
+    padding-left: 150px;
+}
+
+#left-intro {
+    /* padding-left: 150px; */
+}
+
+#right-intro {
+    display: block;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 120px;
+    padding-top: 30px;
+    line-height: 2;
+    /* max-width: 1080px; */
+}
+
+#para {
+    padding-top: 50px;
+}
+
+#third-row {
+    padding-top: 50px;
+}
+#play-button {
+    padding-left:150px ;
+    padding-top: 50px;
+  
+}
+
+#text {
+    padding-top: 150px;
+}
+
+
+#sections {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.second-half {
+    padding-left: 0px;
+/* display: flex; */
+padding-top: 50px;
+}
+#intro-para {
+    padding-left:150px ;
+}
+#this {
+    padding-top: 50px;
+    padding-left:150px ;
+}
+
+
+
+#google {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    padding-left:30px ;
+    padding-top: 30px;
+}
+
+
+
+#list {
+    width: 870px;
+}
+
+#before h4 {
+padding-left: 300px;
+}
+
+.challenges {
+    padding-top: 100px;
+    padding-left:150px ;
+}
+
+#young {
+padding-top: 5px;
+padding-bottom: 30px;
+padding-left:150px ;
+}
+
+#young h1 {
+    font-style: italic;
+    }
+
+
+#youknow {
+padding: 30px;
+text-align: center;
+/* width: 1920px; */
+color: white;
+background-color: black;
+padding-left: 120px;
+}
+
+.wireframe {
+    padding-left: 150px;
+
+}
+
+.wireframe img {
+    width: 1200px;
+}
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+}

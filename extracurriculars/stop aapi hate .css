@@ -185,3 +185,11 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.logo {
+    /* display: flex;
+    justify-content: center; */
+    position: absolute;
+    padding: 50px;
+    position: fixed;
+}

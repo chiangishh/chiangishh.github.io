@@ -103,6 +103,23 @@ line-height: 1.2;
 }
 
 
+
+#photorowoneslide {
+    container: "#autoplay",
+    "items": 3,
+    "speed": 300,
+    "autoplay": true,
+    "autoplayHoverPause": true,
+    "autoplayTimeout": 3500,
+    "autoplayText": [
+      "▶",
+      "❚❚"
+    ],
+    "swipeAngle": false
+  }
+
+
+
 /* .photorowtwoslide {
     display: flex;
     justify-content: space-between;

@@ -100,7 +100,7 @@ line-height: 1.2;
     display: flex;
     justify-content: space-evenly;
     padding-top: 50px;
-    max-width: 1920px;
+    /* max-width: 1920px; */
 }
 
 

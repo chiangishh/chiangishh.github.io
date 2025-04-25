@@ -98,7 +98,7 @@ line-height: 1.2;
 
 #photorowoneslide {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding-top: 50px;
     max-width: 1920px;
 }

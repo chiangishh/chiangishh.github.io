@@ -100,7 +100,10 @@ line-height: 1.2;
     display: flex;
     justify-content: space-between;
     padding-top: 50px;
+    max-width: 1920px;
 }
+
+
 
 
 /* .photorowtwoslide {

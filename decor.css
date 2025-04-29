@@ -221,5 +221,6 @@ padding-top: 100px ;
 .expert {
     display: flex;
     justify-content: center;
+    justify-content: space-between;
     padding-bottom: 150px;
 }

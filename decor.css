@@ -223,3 +223,10 @@ section {
     /* justify-content: center; */
     padding-bottom: 150px;
 }
+
+
+
+.experience {
+    display: flex;
+    justify-content: center;
+}

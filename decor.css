@@ -220,13 +220,8 @@ padding-top: 100px ;
 
 section {
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     padding-bottom: 150px;
 }
 
 
-
-.experience {
-    display: flex;
-    justify-content: center;
-}
